@@ -16,3 +16,5 @@ On ajoute une palette de couleurs par défault afin de respecter la charte graph
 
 ### Ressources :
 Le cahier des charges du Globe Trotter.
+![ https://developer.wordpress.org/themes/advanced-topics/child-themes/#2-create-a-stylesheet-style-css]
+
